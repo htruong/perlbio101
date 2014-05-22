@@ -16,4 +16,4 @@ Programming 101 activity handout
     - Derive a strategy to convert a `fastq` to `fasta` (How would describe to a really dumb person how to do so?)
     - To start I have created some step-by-step problem-solving for a fastq reader. Look at `fastq-reader-1.pl` through `fastq-reader-7.pl` and solve each problem step-by-step.
 3. A list comparer
-    - Every once in a while there would be a person asking me that they have a problem asking Excel to compare two messy list of genes to generate a list of common ones. We will try to come up with a program that reads two lists and tell us what is common in those two.
+    - Every once in a while there would be a person asking me that they have a problem that has been bothering them for days. They wanted Excel to find common genes from two relatively messy lists. We will try to come up with a program that reads two lists and tell us what is common in those two.
